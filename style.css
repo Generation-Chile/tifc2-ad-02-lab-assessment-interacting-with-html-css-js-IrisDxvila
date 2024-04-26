@@ -1,5 +1,29 @@
 html {
+  height: 100%;
+    width: 100%;
+}
+  h1 {
+    color: gray;
+  }
+
+.azul {
+    color: blue;
     height: 100%;
     width: 100%;
   }
+
+  .verde {
+    color: greenyellow;
+    height: 100%;
+    width: 100%;
+  }
+
+#rojo {
+    color: red;
+    height: 100%;
+    width: 100%;
+  }
+
+
+
   
